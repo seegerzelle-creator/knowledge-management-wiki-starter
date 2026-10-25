@@ -8,7 +8,7 @@
 
 ## 先试一条，暂不配置
 
-1. 复制或解压完整目录，保留隐藏目录 `.agents/`。
+1. [下载 v1.1.0-rc.3 启动包 ZIP](https://github.com/seegerzelle-creator/knowledge-management-wiki-starter/releases/download/v1.1.0-rc.3/llm-wiki-starter-v1.1.0-rc.3.zip)，解压完整目录，保留隐藏目录 `.agents/`。
 2. 用 Codex 打开这个文件夹，发送：
 
 ```text
