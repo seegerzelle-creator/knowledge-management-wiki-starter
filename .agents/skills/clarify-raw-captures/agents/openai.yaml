@@ -1,0 +1,8 @@
+interface:
+  display_name: "临时捕捉澄清化"
+  short_description: "原样保存临时捕捉，先确认背景，再理解对齐与判断知识出口"
+  default_prompt: "使用 $clarify-raw-captures 处理我粘贴的 Capture：先原样保存到 Raw/Captures 并回读，再逐篇询问和确认原始背景；确认后才给理解预览，不改写原文，也不直接进入 Wiki。"
+
+policy:
+  allow_implicit_invocation: true
+

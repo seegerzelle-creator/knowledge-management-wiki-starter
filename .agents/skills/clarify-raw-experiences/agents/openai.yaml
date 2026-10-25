@@ -1,0 +1,8 @@
+interface:
+  display_name: "个人经验复盘化"
+  short_description: "保留原始经验，完成理解对齐、复盘校准与知识出口判断"
+  default_prompt: "使用 $clarify-raw-experiences 处理这份个人经历：保留原始记录，先做理解对齐预览，再按确认边界追加并判断知识出口。"
+
+policy:
+  allow_implicit_invocation: true
+

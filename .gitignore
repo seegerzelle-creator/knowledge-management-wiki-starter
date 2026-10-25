@@ -1,0 +1,24 @@
+# Private knowledge: keep empty scaffold only
+/Raw/**/*
+!/Raw/**/
+!/Raw/**/.gitkeep
+/Wiki/**/*
+!/Wiki/**/
+!/Wiki/**/.gitkeep
+/USER-CONTEXT.md
+/index.md
+/log.md
+/ThinkDesk.md
+/.obsidian/
+/.codex/
+/.claude/
+/.claudian/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.DS_Store
+*.zip
+/review/
+/dist/

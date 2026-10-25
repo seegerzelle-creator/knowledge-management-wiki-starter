@@ -1,0 +1,6 @@
+interface:
+  display_name: "个人输出演进化"
+  short_description: "按明确授权保存、修改和维护个人作品，保护母版、证据与下游引用"
+  default_prompt: "使用 $evolve-raw-outputs 处理这份作品：检查授权、当前版本与下游影响，按范围修改并验证，不自动发布。"
+policy:
+  allow_implicit_invocation: true

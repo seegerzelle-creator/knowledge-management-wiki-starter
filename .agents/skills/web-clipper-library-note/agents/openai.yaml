@@ -1,0 +1,8 @@
+interface:
+  display_name: "原始资料馆藏化"
+  short_description: "将外部剪藏和逐字稿翻译、对齐并整理成可查证的馆藏级 Raw 笔记"
+  default_prompt: "使用 $web-clipper-library-note 将这份外部资料翻译或对齐，并整理成可阅读、可查证的馆藏级 Raw 笔记。"
+
+policy:
+  allow_implicit_invocation: true
+
